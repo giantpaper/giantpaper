@@ -1,4 +1,4 @@
-[user stats](https://github-readme-stats.vercel.app/api/top-langs/?username=giantpaper&theme=blue-green)
+![user stats](https://github-readme-stats.vercel.app/api/top-langs/?username=giantpaper&theme=blue-green)
 
 <!---
 giantpaper/giantpaper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
